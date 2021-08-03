@@ -1,0 +1,8 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/alvin/Documents/VSCode/AutomateBoringThings/venv/bin/python3.9",
+    "cSpell.words": [
+        "openpyxl",
+        "pyperclip"
+    ]
+}
